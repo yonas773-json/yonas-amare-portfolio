@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yonas-amare-portfolio.vercel.app/sitemap.xml
